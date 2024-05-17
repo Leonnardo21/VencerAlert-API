@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VencerAlert.Domain\VencerAlert.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Abstracions\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="Mappings\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+</Project>

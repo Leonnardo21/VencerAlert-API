@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leoso\\Workspace\\C#\\ASP.NET\\VencerAlertAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B05559F-0975-4790-8F17-1E9E7050A21C}|VencerAlert.API\\VencerAlert.API.csproj|c:\\users\\leoso\\workspace\\c#\\asp.net\\venceralertapi\\venceralert.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B05559F-0975-4790-8F17-1E9E7050A21C}|VencerAlert.API\\VencerAlert.API.csproj|solutionrelative:venceralert.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B05559F-0975-4790-8F17-1E9E7050A21C}|VencerAlert.API\\VencerAlert.API.csproj|c:\\users\\leoso\\workspace\\c#\\asp.net\\venceralertapi\\venceralert.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B05559F-0975-4790-8F17-1E9E7050A21C}|VencerAlert.API\\VencerAlert.API.csproj|solutionrelative:venceralert.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71946937-3663-4443-AD29-4BD2CAD7F066}|VencerAlert.CrossCutting\\VencerAlert.CrossCutting.csproj|c:\\users\\leoso\\workspace\\c#\\asp.net\\venceralertapi\\venceralert.crosscutting\\dependenciesapp\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71946937-3663-4443-AD29-4BD2CAD7F066}|VencerAlert.CrossCutting\\VencerAlert.CrossCutting.csproj|solutionrelative:venceralert.crosscutting\\dependenciesapp\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leoso\\Workspace\\C#\\ASP.NET\\VencerAlertAPI\\VencerAlert.API\\Program.cs",
+              "RelativeDocumentMoniker": "VencerAlert.API\\Program.cs",
+              "ToolTip": "C:\\Users\\leoso\\Workspace\\C#\\ASP.NET\\VencerAlertAPI\\VencerAlert.API\\Program.cs",
+              "RelativeToolTip": "VencerAlert.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:32:52.34Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\leoso\\Workspace\\C#\\ASP.NET\\VencerAlertAPI\\VencerAlert.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "VencerAlert.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\leoso\\Workspace\\C#\\ASP.NET\\VencerAlertAPI\\VencerAlert.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "VencerAlert.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:39:37.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\leoso\\Workspace\\C#\\ASP.NET\\VencerAlertAPI\\VencerAlert.CrossCutting\\DependenciesApp\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "VencerAlert.CrossCutting\\DependenciesApp\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\leoso\\Workspace\\C#\\ASP.NET\\VencerAlertAPI\\VencerAlert.CrossCutting\\DependenciesApp\\DependencyInjection.cs",
+              "RelativeToolTip": "VencerAlert.CrossCutting\\DependenciesApp\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:23:19.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

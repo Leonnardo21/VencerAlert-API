@@ -1,0 +1,17 @@
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Infrastructure\bin\Debug\net6.0\VencerAlert.Infrastructure.deps.json
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Infrastructure\bin\Debug\net6.0\VencerAlert.Infrastructure.runtimeconfig.json
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Infrastructure\bin\Debug\net6.0\VencerAlert.Infrastructure.dll
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Infrastructure\bin\Debug\net6.0\VencerAlert.Infrastructure.pdb
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Infrastructure\bin\Debug\net6.0\VencerAlert.Domain.dll
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Infrastructure\bin\Debug\net6.0\VencerAlert.Domain.pdb
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Infrastructure\obj\Debug\net6.0\VencerAlert.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Infrastructure\obj\Debug\net6.0\VencerAlert.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Infrastructure\obj\Debug\net6.0\VencerAlert.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Infrastructure\obj\Debug\net6.0\VencerAlert.Infrastructure.AssemblyInfo.cs
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Infrastructure\obj\Debug\net6.0\VencerAlert.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Infrastructure\obj\Debug\net6.0\VencerAl.D368FC06.Up2Date
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Infrastructure\obj\Debug\net6.0\VencerAlert.Infrastructure.dll
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Infrastructure\obj\Debug\net6.0\refint\VencerAlert.Infrastructure.dll
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Infrastructure\obj\Debug\net6.0\VencerAlert.Infrastructure.pdb
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Infrastructure\obj\Debug\net6.0\VencerAlert.Infrastructure.genruntimeconfig.cache
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Infrastructure\obj\Debug\net6.0\ref\VencerAlert.Infrastructure.dll

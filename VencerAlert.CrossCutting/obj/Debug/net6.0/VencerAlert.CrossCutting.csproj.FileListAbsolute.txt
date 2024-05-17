@@ -1,0 +1,17 @@
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.CrossCutting\bin\Debug\net6.0\VencerAlert.CrossCutting.deps.json
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.CrossCutting\bin\Debug\net6.0\VencerAlert.CrossCutting.dll
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.CrossCutting\bin\Debug\net6.0\VencerAlert.CrossCutting.pdb
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.CrossCutting\bin\Debug\net6.0\VencerAlert.Domain.dll
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.CrossCutting\bin\Debug\net6.0\VencerAlert.Infrastructure.dll
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.CrossCutting\bin\Debug\net6.0\VencerAlert.Domain.pdb
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.CrossCutting\bin\Debug\net6.0\VencerAlert.Infrastructure.pdb
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.CrossCutting\obj\Debug\net6.0\VencerAlert.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.CrossCutting\obj\Debug\net6.0\VencerAlert.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.CrossCutting\obj\Debug\net6.0\VencerAlert.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.CrossCutting\obj\Debug\net6.0\VencerAlert.CrossCutting.AssemblyInfo.cs
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.CrossCutting\obj\Debug\net6.0\VencerAlert.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.CrossCutting\obj\Debug\net6.0\VencerAl.797A28A9.Up2Date
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.CrossCutting\obj\Debug\net6.0\VencerAlert.CrossCutting.dll
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.CrossCutting\obj\Debug\net6.0\refint\VencerAlert.CrossCutting.dll
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.CrossCutting\obj\Debug\net6.0\VencerAlert.CrossCutting.pdb
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.CrossCutting\obj\Debug\net6.0\ref\VencerAlert.CrossCutting.dll

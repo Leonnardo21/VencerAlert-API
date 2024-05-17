@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5q+ICzSG4rtCJfyKVqBJiGKLWN474AsnUiLIug0r3urDyfNgUXHHCYAsUMxHCdJ2P4kFvG8aw+6c1SitixiYlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leoso\\Workspace\\C#\\ASP.NET\\VencerAlertAPI\\VencerAlert.Application\\VencerAlert.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leoso\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\leoso\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\leoso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

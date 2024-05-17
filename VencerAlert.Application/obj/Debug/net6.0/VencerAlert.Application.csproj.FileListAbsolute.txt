@@ -1,0 +1,15 @@
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Application\bin\Debug\net6.0\VencerAlert.Application.deps.json
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Application\bin\Debug\net6.0\VencerAlert.Application.dll
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Application\bin\Debug\net6.0\VencerAlert.Application.pdb
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Application\bin\Debug\net6.0\VencerAlert.Domain.dll
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Application\bin\Debug\net6.0\VencerAlert.Domain.pdb
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Application\obj\Debug\net6.0\VencerAlert.Application.csproj.AssemblyReference.cache
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Application\obj\Debug\net6.0\VencerAlert.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Application\obj\Debug\net6.0\VencerAlert.Application.AssemblyInfoInputs.cache
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Application\obj\Debug\net6.0\VencerAlert.Application.AssemblyInfo.cs
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Application\obj\Debug\net6.0\VencerAlert.Application.csproj.CoreCompileInputs.cache
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Application\obj\Debug\net6.0\VencerAl.869DA259.Up2Date
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Application\obj\Debug\net6.0\VencerAlert.Application.dll
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Application\obj\Debug\net6.0\refint\VencerAlert.Application.dll
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Application\obj\Debug\net6.0\VencerAlert.Application.pdb
+C:\Users\leoso\Workspace\C#\ASP.NET\VencerAlertAPI\VencerAlert.Application\obj\Debug\net6.0\ref\VencerAlert.Application.dll
